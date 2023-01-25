@@ -1,0 +1,6 @@
+Install Semua Ketentuan yang dibutuhkan via terminal python atau terminal di VS code :
+
+pyTelegramBotAPI : pip install pyTelegramBotAPI
+openai : pip install openai
+asyncio :  pip install asyncio
+aiohttp : pip install aiohttp 
